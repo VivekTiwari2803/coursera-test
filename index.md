@@ -1,4 +1,4 @@
-## Welcome to world of madeness
+XX## Welcome to world of madeness
 
 We all love marvel movies but one thing that we all hate about marvel that they release trailer way earlier and kept their fan waiting and what happen when you watch the movie after long time! dissapoitment ! right?.
 Endgame was no disaapoitment. i was dieing watching every scene on the movie and the moment when captain america lift the thor hammer we all were blown away. the excitement was on another level.
@@ -14,12 +14,14 @@ list of the book
 3) the oath of vayuputra 
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more infromation on the movies and book keep visiting my pages 
 
-### Jekyll Themes
+### About Me
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VivekTiwari2803/coursera-test/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+I am en engineering student and i do webdevelopent just as hobby. if you want me to work for you and do marketing for you below is my comtact where you can contact me and we will negotiate.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Contact
+
+My phone: 95xyr...
+write me feedback or contack me on vivel....@gmail.com
